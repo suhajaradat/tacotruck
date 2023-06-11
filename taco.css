@@ -3,6 +3,7 @@
   overflow: hidden;
 }
 button{
+  color:black;
 display: block;
 margin: 10px;
 padding: 10px;
@@ -67,4 +68,14 @@ margin-right: auto;
     display: block;
     text-align: left;
   }
+
+img{
+width:50vw;
+margin: auto;
+border-radius: 8px; 
+}
+header{
+width: 100%;
+display: grid;}
+
 
